@@ -1,0 +1,15 @@
+D:\Curso de C#\Variables\Clases\bin\Debug\net6.0\Clases.exe
+D:\Curso de C#\Variables\Clases\bin\Debug\net6.0\Clases.deps.json
+D:\Curso de C#\Variables\Clases\bin\Debug\net6.0\Clases.runtimeconfig.json
+D:\Curso de C#\Variables\Clases\bin\Debug\net6.0\Clases.dll
+D:\Curso de C#\Variables\Clases\bin\Debug\net6.0\Clases.pdb
+D:\Curso de C#\Variables\Clases\obj\Debug\net6.0\Clases.csproj.AssemblyReference.cache
+D:\Curso de C#\Variables\Clases\obj\Debug\net6.0\Clases.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso de C#\Variables\Clases\obj\Debug\net6.0\Clases.AssemblyInfoInputs.cache
+D:\Curso de C#\Variables\Clases\obj\Debug\net6.0\Clases.AssemblyInfo.cs
+D:\Curso de C#\Variables\Clases\obj\Debug\net6.0\Clases.csproj.CoreCompileInputs.cache
+D:\Curso de C#\Variables\Clases\obj\Debug\net6.0\Clases.dll
+D:\Curso de C#\Variables\Clases\obj\Debug\net6.0\refint\Clases.dll
+D:\Curso de C#\Variables\Clases\obj\Debug\net6.0\Clases.pdb
+D:\Curso de C#\Variables\Clases\obj\Debug\net6.0\Clases.genruntimeconfig.cache
+D:\Curso de C#\Variables\Clases\obj\Debug\net6.0\ref\Clases.dll

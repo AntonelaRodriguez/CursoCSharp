@@ -1,0 +1,15 @@
+D:\Curso de C#\Variables\Variables\bin\Debug\net6.0\Variables.exe
+D:\Curso de C#\Variables\Variables\bin\Debug\net6.0\Variables.deps.json
+D:\Curso de C#\Variables\Variables\bin\Debug\net6.0\Variables.runtimeconfig.json
+D:\Curso de C#\Variables\Variables\bin\Debug\net6.0\Variables.dll
+D:\Curso de C#\Variables\Variables\bin\Debug\net6.0\Variables.pdb
+D:\Curso de C#\Variables\Variables\obj\Debug\net6.0\Variables.csproj.AssemblyReference.cache
+D:\Curso de C#\Variables\Variables\obj\Debug\net6.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso de C#\Variables\Variables\obj\Debug\net6.0\Variables.AssemblyInfoInputs.cache
+D:\Curso de C#\Variables\Variables\obj\Debug\net6.0\Variables.AssemblyInfo.cs
+D:\Curso de C#\Variables\Variables\obj\Debug\net6.0\Variables.csproj.CoreCompileInputs.cache
+D:\Curso de C#\Variables\Variables\obj\Debug\net6.0\Variables.dll
+D:\Curso de C#\Variables\Variables\obj\Debug\net6.0\refint\Variables.dll
+D:\Curso de C#\Variables\Variables\obj\Debug\net6.0\Variables.pdb
+D:\Curso de C#\Variables\Variables\obj\Debug\net6.0\Variables.genruntimeconfig.cache
+D:\Curso de C#\Variables\Variables\obj\Debug\net6.0\ref\Variables.dll

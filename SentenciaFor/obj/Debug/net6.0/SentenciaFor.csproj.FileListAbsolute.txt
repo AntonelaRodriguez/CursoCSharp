@@ -1,0 +1,15 @@
+D:\Curso de C#\Variables\SentenciaFor\bin\Debug\net6.0\SentenciaFor.exe
+D:\Curso de C#\Variables\SentenciaFor\bin\Debug\net6.0\SentenciaFor.deps.json
+D:\Curso de C#\Variables\SentenciaFor\bin\Debug\net6.0\SentenciaFor.runtimeconfig.json
+D:\Curso de C#\Variables\SentenciaFor\bin\Debug\net6.0\SentenciaFor.dll
+D:\Curso de C#\Variables\SentenciaFor\bin\Debug\net6.0\SentenciaFor.pdb
+D:\Curso de C#\Variables\SentenciaFor\obj\Debug\net6.0\SentenciaFor.csproj.AssemblyReference.cache
+D:\Curso de C#\Variables\SentenciaFor\obj\Debug\net6.0\SentenciaFor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso de C#\Variables\SentenciaFor\obj\Debug\net6.0\SentenciaFor.AssemblyInfoInputs.cache
+D:\Curso de C#\Variables\SentenciaFor\obj\Debug\net6.0\SentenciaFor.AssemblyInfo.cs
+D:\Curso de C#\Variables\SentenciaFor\obj\Debug\net6.0\SentenciaFor.csproj.CoreCompileInputs.cache
+D:\Curso de C#\Variables\SentenciaFor\obj\Debug\net6.0\SentenciaFor.dll
+D:\Curso de C#\Variables\SentenciaFor\obj\Debug\net6.0\refint\SentenciaFor.dll
+D:\Curso de C#\Variables\SentenciaFor\obj\Debug\net6.0\SentenciaFor.pdb
+D:\Curso de C#\Variables\SentenciaFor\obj\Debug\net6.0\SentenciaFor.genruntimeconfig.cache
+D:\Curso de C#\Variables\SentenciaFor\obj\Debug\net6.0\ref\SentenciaFor.dll

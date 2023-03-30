@@ -1,0 +1,15 @@
+D:\Curso de C#\Variables\TiposAnonimos\bin\Debug\net6.0\TiposAnonimos.exe
+D:\Curso de C#\Variables\TiposAnonimos\bin\Debug\net6.0\TiposAnonimos.deps.json
+D:\Curso de C#\Variables\TiposAnonimos\bin\Debug\net6.0\TiposAnonimos.runtimeconfig.json
+D:\Curso de C#\Variables\TiposAnonimos\bin\Debug\net6.0\TiposAnonimos.dll
+D:\Curso de C#\Variables\TiposAnonimos\bin\Debug\net6.0\TiposAnonimos.pdb
+D:\Curso de C#\Variables\TiposAnonimos\obj\Debug\net6.0\TiposAnonimos.csproj.AssemblyReference.cache
+D:\Curso de C#\Variables\TiposAnonimos\obj\Debug\net6.0\TiposAnonimos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso de C#\Variables\TiposAnonimos\obj\Debug\net6.0\TiposAnonimos.AssemblyInfoInputs.cache
+D:\Curso de C#\Variables\TiposAnonimos\obj\Debug\net6.0\TiposAnonimos.AssemblyInfo.cs
+D:\Curso de C#\Variables\TiposAnonimos\obj\Debug\net6.0\TiposAnonimos.csproj.CoreCompileInputs.cache
+D:\Curso de C#\Variables\TiposAnonimos\obj\Debug\net6.0\TiposAnonimos.dll
+D:\Curso de C#\Variables\TiposAnonimos\obj\Debug\net6.0\refint\TiposAnonimos.dll
+D:\Curso de C#\Variables\TiposAnonimos\obj\Debug\net6.0\TiposAnonimos.pdb
+D:\Curso de C#\Variables\TiposAnonimos\obj\Debug\net6.0\TiposAnonimos.genruntimeconfig.cache
+D:\Curso de C#\Variables\TiposAnonimos\obj\Debug\net6.0\ref\TiposAnonimos.dll

@@ -1,0 +1,15 @@
+D:\Curso de C#\Variables\Switch\bin\Debug\net6.0\Switch.exe
+D:\Curso de C#\Variables\Switch\bin\Debug\net6.0\Switch.deps.json
+D:\Curso de C#\Variables\Switch\bin\Debug\net6.0\Switch.runtimeconfig.json
+D:\Curso de C#\Variables\Switch\bin\Debug\net6.0\Switch.dll
+D:\Curso de C#\Variables\Switch\bin\Debug\net6.0\Switch.pdb
+D:\Curso de C#\Variables\Switch\obj\Debug\net6.0\Switch.csproj.AssemblyReference.cache
+D:\Curso de C#\Variables\Switch\obj\Debug\net6.0\Switch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso de C#\Variables\Switch\obj\Debug\net6.0\Switch.AssemblyInfoInputs.cache
+D:\Curso de C#\Variables\Switch\obj\Debug\net6.0\Switch.AssemblyInfo.cs
+D:\Curso de C#\Variables\Switch\obj\Debug\net6.0\Switch.csproj.CoreCompileInputs.cache
+D:\Curso de C#\Variables\Switch\obj\Debug\net6.0\Switch.dll
+D:\Curso de C#\Variables\Switch\obj\Debug\net6.0\refint\Switch.dll
+D:\Curso de C#\Variables\Switch\obj\Debug\net6.0\Switch.pdb
+D:\Curso de C#\Variables\Switch\obj\Debug\net6.0\Switch.genruntimeconfig.cache
+D:\Curso de C#\Variables\Switch\obj\Debug\net6.0\ref\Switch.dll

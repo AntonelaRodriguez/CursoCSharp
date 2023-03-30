@@ -1,0 +1,15 @@
+D:\Curso de C#\Variables\ExcepcionesPersonalizadas\bin\Debug\net6.0\ExcepcionesPersonalizadas.exe
+D:\Curso de C#\Variables\ExcepcionesPersonalizadas\bin\Debug\net6.0\ExcepcionesPersonalizadas.deps.json
+D:\Curso de C#\Variables\ExcepcionesPersonalizadas\bin\Debug\net6.0\ExcepcionesPersonalizadas.runtimeconfig.json
+D:\Curso de C#\Variables\ExcepcionesPersonalizadas\bin\Debug\net6.0\ExcepcionesPersonalizadas.dll
+D:\Curso de C#\Variables\ExcepcionesPersonalizadas\bin\Debug\net6.0\ExcepcionesPersonalizadas.pdb
+D:\Curso de C#\Variables\ExcepcionesPersonalizadas\obj\Debug\net6.0\ExcepcionesPersonalizadas.csproj.AssemblyReference.cache
+D:\Curso de C#\Variables\ExcepcionesPersonalizadas\obj\Debug\net6.0\ExcepcionesPersonalizadas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso de C#\Variables\ExcepcionesPersonalizadas\obj\Debug\net6.0\ExcepcionesPersonalizadas.AssemblyInfoInputs.cache
+D:\Curso de C#\Variables\ExcepcionesPersonalizadas\obj\Debug\net6.0\ExcepcionesPersonalizadas.AssemblyInfo.cs
+D:\Curso de C#\Variables\ExcepcionesPersonalizadas\obj\Debug\net6.0\ExcepcionesPersonalizadas.csproj.CoreCompileInputs.cache
+D:\Curso de C#\Variables\ExcepcionesPersonalizadas\obj\Debug\net6.0\ExcepcionesPersonalizadas.dll
+D:\Curso de C#\Variables\ExcepcionesPersonalizadas\obj\Debug\net6.0\refint\ExcepcionesPersonalizadas.dll
+D:\Curso de C#\Variables\ExcepcionesPersonalizadas\obj\Debug\net6.0\ExcepcionesPersonalizadas.pdb
+D:\Curso de C#\Variables\ExcepcionesPersonalizadas\obj\Debug\net6.0\ExcepcionesPersonalizadas.genruntimeconfig.cache
+D:\Curso de C#\Variables\ExcepcionesPersonalizadas\obj\Debug\net6.0\ref\ExcepcionesPersonalizadas.dll

@@ -1,0 +1,15 @@
+D:\Curso de C#\Variables\Funciones\obj\Debug\net6.0\Funciones.csproj.AssemblyReference.cache
+D:\Curso de C#\Variables\Funciones\obj\Debug\net6.0\Funciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso de C#\Variables\Funciones\obj\Debug\net6.0\Funciones.AssemblyInfoInputs.cache
+D:\Curso de C#\Variables\Funciones\obj\Debug\net6.0\Funciones.AssemblyInfo.cs
+D:\Curso de C#\Variables\Funciones\obj\Debug\net6.0\Funciones.csproj.CoreCompileInputs.cache
+D:\Curso de C#\Variables\Funciones\bin\Debug\net6.0\Funciones.exe
+D:\Curso de C#\Variables\Funciones\bin\Debug\net6.0\Funciones.deps.json
+D:\Curso de C#\Variables\Funciones\bin\Debug\net6.0\Funciones.runtimeconfig.json
+D:\Curso de C#\Variables\Funciones\bin\Debug\net6.0\Funciones.dll
+D:\Curso de C#\Variables\Funciones\bin\Debug\net6.0\Funciones.pdb
+D:\Curso de C#\Variables\Funciones\obj\Debug\net6.0\Funciones.dll
+D:\Curso de C#\Variables\Funciones\obj\Debug\net6.0\refint\Funciones.dll
+D:\Curso de C#\Variables\Funciones\obj\Debug\net6.0\Funciones.pdb
+D:\Curso de C#\Variables\Funciones\obj\Debug\net6.0\Funciones.genruntimeconfig.cache
+D:\Curso de C#\Variables\Funciones\obj\Debug\net6.0\ref\Funciones.dll

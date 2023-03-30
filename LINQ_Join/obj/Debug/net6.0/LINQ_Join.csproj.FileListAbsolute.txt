@@ -1,0 +1,15 @@
+D:\Curso de C#\Variables\LINQ_Join\bin\Debug\net6.0\LINQ_Join.exe
+D:\Curso de C#\Variables\LINQ_Join\bin\Debug\net6.0\LINQ_Join.deps.json
+D:\Curso de C#\Variables\LINQ_Join\bin\Debug\net6.0\LINQ_Join.runtimeconfig.json
+D:\Curso de C#\Variables\LINQ_Join\bin\Debug\net6.0\LINQ_Join.dll
+D:\Curso de C#\Variables\LINQ_Join\bin\Debug\net6.0\LINQ_Join.pdb
+D:\Curso de C#\Variables\LINQ_Join\obj\Debug\net6.0\LINQ_Join.csproj.AssemblyReference.cache
+D:\Curso de C#\Variables\LINQ_Join\obj\Debug\net6.0\LINQ_Join.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso de C#\Variables\LINQ_Join\obj\Debug\net6.0\LINQ_Join.AssemblyInfoInputs.cache
+D:\Curso de C#\Variables\LINQ_Join\obj\Debug\net6.0\LINQ_Join.AssemblyInfo.cs
+D:\Curso de C#\Variables\LINQ_Join\obj\Debug\net6.0\LINQ_Join.csproj.CoreCompileInputs.cache
+D:\Curso de C#\Variables\LINQ_Join\obj\Debug\net6.0\LINQ_Join.dll
+D:\Curso de C#\Variables\LINQ_Join\obj\Debug\net6.0\refint\LINQ_Join.dll
+D:\Curso de C#\Variables\LINQ_Join\obj\Debug\net6.0\LINQ_Join.pdb
+D:\Curso de C#\Variables\LINQ_Join\obj\Debug\net6.0\LINQ_Join.genruntimeconfig.cache
+D:\Curso de C#\Variables\LINQ_Join\obj\Debug\net6.0\ref\LINQ_Join.dll

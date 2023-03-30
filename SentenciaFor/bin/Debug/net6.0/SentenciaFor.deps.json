@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SentenciaFor/1.0.0": {
+        "runtime": {
+          "SentenciaFor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SentenciaFor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

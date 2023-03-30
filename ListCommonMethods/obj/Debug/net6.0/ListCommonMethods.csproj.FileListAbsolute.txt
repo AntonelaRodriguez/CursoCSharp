@@ -1,0 +1,15 @@
+D:\Curso de C#\Variables\ListCommonMethods\bin\Debug\net6.0\ListCommonMethods.exe
+D:\Curso de C#\Variables\ListCommonMethods\bin\Debug\net6.0\ListCommonMethods.deps.json
+D:\Curso de C#\Variables\ListCommonMethods\bin\Debug\net6.0\ListCommonMethods.runtimeconfig.json
+D:\Curso de C#\Variables\ListCommonMethods\bin\Debug\net6.0\ListCommonMethods.dll
+D:\Curso de C#\Variables\ListCommonMethods\bin\Debug\net6.0\ListCommonMethods.pdb
+D:\Curso de C#\Variables\ListCommonMethods\obj\Debug\net6.0\ListCommonMethods.csproj.AssemblyReference.cache
+D:\Curso de C#\Variables\ListCommonMethods\obj\Debug\net6.0\ListCommonMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso de C#\Variables\ListCommonMethods\obj\Debug\net6.0\ListCommonMethods.AssemblyInfoInputs.cache
+D:\Curso de C#\Variables\ListCommonMethods\obj\Debug\net6.0\ListCommonMethods.AssemblyInfo.cs
+D:\Curso de C#\Variables\ListCommonMethods\obj\Debug\net6.0\ListCommonMethods.csproj.CoreCompileInputs.cache
+D:\Curso de C#\Variables\ListCommonMethods\obj\Debug\net6.0\ListCommonMethods.dll
+D:\Curso de C#\Variables\ListCommonMethods\obj\Debug\net6.0\refint\ListCommonMethods.dll
+D:\Curso de C#\Variables\ListCommonMethods\obj\Debug\net6.0\ListCommonMethods.pdb
+D:\Curso de C#\Variables\ListCommonMethods\obj\Debug\net6.0\ListCommonMethods.genruntimeconfig.cache
+D:\Curso de C#\Variables\ListCommonMethods\obj\Debug\net6.0\ref\ListCommonMethods.dll
