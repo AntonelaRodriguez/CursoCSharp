@@ -1,0 +1,15 @@
+D:\Curso de C#\CursoCSharp\FunctionalProgramming\bin\Debug\net6.0\FunctionalProgramming.exe
+D:\Curso de C#\CursoCSharp\FunctionalProgramming\bin\Debug\net6.0\FunctionalProgramming.deps.json
+D:\Curso de C#\CursoCSharp\FunctionalProgramming\bin\Debug\net6.0\FunctionalProgramming.runtimeconfig.json
+D:\Curso de C#\CursoCSharp\FunctionalProgramming\bin\Debug\net6.0\FunctionalProgramming.dll
+D:\Curso de C#\CursoCSharp\FunctionalProgramming\bin\Debug\net6.0\FunctionalProgramming.pdb
+D:\Curso de C#\CursoCSharp\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.csproj.AssemblyReference.cache
+D:\Curso de C#\CursoCSharp\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso de C#\CursoCSharp\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.AssemblyInfoInputs.cache
+D:\Curso de C#\CursoCSharp\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.AssemblyInfo.cs
+D:\Curso de C#\CursoCSharp\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.csproj.CoreCompileInputs.cache
+D:\Curso de C#\CursoCSharp\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.dll
+D:\Curso de C#\CursoCSharp\FunctionalProgramming\obj\Debug\net6.0\refint\FunctionalProgramming.dll
+D:\Curso de C#\CursoCSharp\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.pdb
+D:\Curso de C#\CursoCSharp\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.genruntimeconfig.cache
+D:\Curso de C#\CursoCSharp\FunctionalProgramming\obj\Debug\net6.0\ref\FunctionalProgramming.dll
